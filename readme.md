@@ -29,7 +29,15 @@ Cмотреть сериалы, чисто релаксить и хакуна-м
 
 - Kotlin
 - GoLang
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodorojaOxana2004&layout=compact)](https://github.com/GodorojaOxana2004/github-readme-stats)
 
 # Как со мной связаться
 
 [Мой telegram](https://t.me/Oxyge_0)
+
+
+# Статистика
+
+![GodorojaOxana2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodorojaOxana2004&show_icons=true&theme=radical)
+
